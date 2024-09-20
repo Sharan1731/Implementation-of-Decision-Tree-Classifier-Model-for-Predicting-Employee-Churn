@@ -8,6 +8,8 @@ To write a program to implement the Decision Tree Classifier Model for Predictin
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
+START
+
 STEP 1.import pandas module and import the required data set.
 
 STEP 2.Find the null values and count them.
@@ -28,6 +30,7 @@ STEP 9.From sklearn import metrics.
 
 STEP 10.Find the accuracy of our model and predict the require values.
 
+END
 ## Program:
 ```
 /*
